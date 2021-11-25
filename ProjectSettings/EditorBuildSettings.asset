@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Tutorial.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Level1.unity
+    guid: 5dc1de0c98378a447946e47693188443
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Level2.unity
+    guid: 64d5e583a17b3ae4093fc4792960b9f8
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Level3.unity
+    guid: 2a4bf6b3b18b58a44ae0103b410645a5
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Level4.unity
+    guid: b73efb8a596c82742a47c2d1905b749f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/ChapterComplete1.unity
+    guid: 9ba03d5caebad064da42828a81499682
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/Level5.unity
+    guid: 35394f986dd6283468be5ae0e84fbd44
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/Level6.unity
+    guid: e943b356cc15f5748af44cbbb34a1f1d
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/Level7.unity
+    guid: e5d3782c9190c1b4692d3e2a9d4124ef
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/Level8.unity
+    guid: 80c56e46301c08547ad2396b381ae1b3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/ChapterComplete2.unity
+    guid: b1c9c89c851f52746b02d6d33c40a6b1
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/Level9.unity
+    guid: fa10cbe0d155a1148b0503d705fbcc75
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/Level10.unity
+    guid: 28331a0f88025d64d860577a2148168d
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/Level11.unity
+    guid: 77d94817c14db034e8116c12adc774b8
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/Level12.unity
+    guid: 1939ffe9826d1f34cb6e78afc419ec3f
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/End.unity
+    guid: 023b4e4cd16cb6c4dabd2cfa7a9cd7bb
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4 Bonus/BonusLevel1.unity
+    guid: 1373311e57b0ab44a872349d2c41a487
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4 Bonus/BonusLevel2.unity
+    guid: dd97afa5cb3de9643904fec70663f1a3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4 Bonus/BonusLevel3.unity
+    guid: f8d9c24358289cf4a91cf5b3a4ae2df9
+  m_configObjects: {}

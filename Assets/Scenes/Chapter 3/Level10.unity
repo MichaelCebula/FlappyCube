@@ -2220,7 +2220,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3531965058014344274, guid: 229235655e71c494cbfd94d3c345b85f, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.6
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 3531965058014344274, guid: 229235655e71c494cbfd94d3c345b85f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6844,7 +6844,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8080897060906705612, guid: 7bc623b4bd9c43d4290d91bd7c853c70, type: 3}
       propertyPath: iLoadLevel
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 8080897060906705612, guid: 7bc623b4bd9c43d4290d91bd7c853c70, type: 3}
       propertyPath: sLoadLevel

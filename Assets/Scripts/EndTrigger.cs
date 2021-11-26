@@ -14,7 +14,6 @@ public class EndTrigger : MonoBehaviour
     public void OnTriggerEnter(Collider collision)
     {
         GameObject collisionGameObject = collision.gameObject;
-        gameManager.WinGame();
 
         if (collisionGameObject.tag == "Player")
         {

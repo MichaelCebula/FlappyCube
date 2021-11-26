@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Chapter 2/Level6.unity
     guid: e943b356cc15f5748af44cbbb34a1f1d
   - enabled: 1
+    path: Assets/Scenes/Chapter 4 Bonus/BonusLevel1.unity
+    guid: 1373311e57b0ab44a872349d2c41a487
+  - enabled: 1
     path: Assets/Scenes/Chapter 2/Level7.unity
     guid: e5d3782c9190c1b4692d3e2a9d4124ef
   - enabled: 1
@@ -53,9 +56,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chapter 3/End.unity
     guid: 023b4e4cd16cb6c4dabd2cfa7a9cd7bb
-  - enabled: 1
-    path: Assets/Scenes/Chapter 4 Bonus/BonusLevel1.unity
-    guid: 1373311e57b0ab44a872349d2c41a487
   - enabled: 1
     path: Assets/Scenes/Chapter 4 Bonus/BonusLevel2.unity
     guid: dd97afa5cb3de9643904fec70663f1a3

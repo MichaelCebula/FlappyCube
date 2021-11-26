@@ -24,10 +24,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void WinGame()
-    {
-        Debug.Log("Level complete");
-    }
 
     public void Restart()
     {

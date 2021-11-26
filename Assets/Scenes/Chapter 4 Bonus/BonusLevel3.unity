@@ -42951,7 +42951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8080897060906705612, guid: 7bc623b4bd9c43d4290d91bd7c853c70, type: 3}
       propertyPath: iLoadLevel
-      value: 15
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 8080897060906705612, guid: 7bc623b4bd9c43d4290d91bd7c853c70, type: 3}
       propertyPath: sLoadLevel
